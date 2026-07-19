@@ -1,0 +1,13 @@
+---
+title: Home
+layout: home
+nav_order: 1
+---
+
+**망한 땅으로**는 한때 흥성했으나 몰락한 문명의 잔해를 탐험하는 게임입니다. 청동의 시대는 끝나고 철의 시대가 왔습니다. 신화는 끝이 났고 당신은 남겨졌습니다.
+
+세계는 아카이아 멸망 이후의 지중해 세계, 라그나로크 이후의 노르드 세계, 춘추기의 화하 세계 등에 느슨하게 기반하였습니다. 
+
+캐릭터는 빠르게 만들어지고 쉽게 사라집니다. 세계는 관찰과 상호작용을 요구합니다. 싸움은 정신없고 잔인합니다. 모험과 성장은 선형적이지 않습니다. 힘은 직접 찾아 쟁취하는 것입니다.
+
+망한 땅으로는 [Cairn](https://cairnrpg.com/), [Mythic Bastionland](https://chrismcdee.itch.io/mythic-bastionland), [Knave](https://questingbeast.itch.io/knave-second-edition) 등 여러 훌륭한 올드 스쿨 롤플레잉 게임을 베꼈습니다. 
