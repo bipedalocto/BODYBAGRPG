@@ -25,7 +25,7 @@ nav_order: 2
 
 ### BAG
 
-* BAG(Biochemical Augmented Garment)은 물리적 육체입니다. 배경의 표에서 주사위를 굴려 정합니다.
+* 캐릭터의 물리적 육체는 **BAG**(Biochemical Augmented Garment)이라 불립니다. 배경의 표에서 주사위를 굴려 정합니다.
 
 ### HP
 
