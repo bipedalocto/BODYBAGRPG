@@ -10,4 +10,4 @@ nav_order: 1
 
 캐릭터는 빠르게 만들어지고 빠르게 소모됩니다. 세상은 각자의 원리로 작동합니다. 싸움은 정신없고 잔인합니다. 힘은 쟁취하는 것입니다.
 
-바디백은 이클립스 페이즈, Mythic Bastionland, Cairn, Cities Without Number, Marathon 등 여러 훌륭한 게임들에 기반합니다.
+바디백은 Eclipse Phase, Mythic Bastionland, Cairn, Cities Without Number, Marathon 등 여러 훌륭한 게임들에 기반합니다.
