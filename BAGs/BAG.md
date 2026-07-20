@@ -9,7 +9,7 @@ layout: default
 
 ### Biochemical Augmented Garment
 
-BAG은 생화학적으로 증강된 외장(Biochemical Augmented Garment)로, 인류의 생득적 신체를 포함하는 물리적 육체입니다. 엄밀한 설계를 바탕으로 유기체와 기계를 적절히 조합해 직조하였으며, 그 기능은 천차만별입니다.
+BAG은 생화학적으로 증강된 외장(Biochemical Augmented Garment)로, 인류의 생득적 신체를 포함하는 물리적 육체입니다. 엄밀한 설계를 바탕으로 유기체와 기계를 적절히 조합해 직조하였으며, 그 기능은 용도에 따라 모두 다릅니다.
 
 ### PACK
 
