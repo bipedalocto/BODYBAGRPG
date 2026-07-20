@@ -1,6 +1,6 @@
 ---
 title: BAG
-parent: home
+parent: Home
 nav_order: 4
 layout: default
 ---
